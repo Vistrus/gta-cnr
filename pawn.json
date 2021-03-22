@@ -1,0 +1,5 @@
+{
+    "user": "vistrus",
+    "repo": "gta-cnr",
+    "dependencies": ["pawn-lang/pawn-stdlib"]
+}
